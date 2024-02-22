@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\PracticaMetodos\PracticaMetodos\bin\Debug\PracticaMetodos.exe.config
+C:\Users\mario\source\repos\PracticaMetodos\PracticaMetodos\bin\Debug\PracticaMetodos.exe
+C:\Users\mario\source\repos\PracticaMetodos\PracticaMetodos\bin\Debug\PracticaMetodos.pdb
+C:\Users\mario\source\repos\PracticaMetodos\PracticaMetodos\obj\Debug\PracticaMetodos.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\PracticaMetodos\PracticaMetodos\obj\Debug\PracticaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\PracticaMetodos\PracticaMetodos\obj\Debug\PracticaMetodos.exe
+C:\Users\mario\source\repos\PracticaMetodos\PracticaMetodos\obj\Debug\PracticaMetodos.pdb
